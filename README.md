@@ -1,14 +1,14 @@
 <div align="center">
 
-# `bruno.gaspar`
+# `Bruno Gaspar`
 
-**Computer Science Student · Backend Developer in Progress**
+**Computer Science Student · Back-end Developer in Progress · Cybersecurity Analyst in Progress**
 
 Building things, learning constantly, and turning ideas into code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d0b12?style=flat-square&logo=github&logoColor=white)](https://github.com/BrunoGasparr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0b12?style=flat-square&logo=linkedin&logoColor=%23A78BFA)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Contact-0d0b12?style=flat-square&logo=gmail&logoColor=%23A78BFA)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0b12?style=flat-square&logo=linkedin&logoColor=%23A78BFA)](https://www.linkedin.com/in/bruno--gaspar/)
+[![Email](https://img.shields.io/badge/Contact-0d0b12?style=flat-square&logo=gmail&logoColor=%23A78BFA)](mailto:bruno.gaspar.elias@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED&section=header" width="100%" />
 
@@ -18,7 +18,7 @@ Building things, learning constantly, and turning ideas into code.
 
 ```text
 > Computer Science student
-> Interested in backend development, software quality and clean code
+> Interested in backend development, cybersecurity software quality and clean code
 > Learning by building projects and solving real problems
 ```
 
@@ -31,8 +31,6 @@ I’m a Computer Science student focused on strengthening my software developmen
 **Currently working with**
 
 ![Java](https://img.shields.io/badge/Java-17151F?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
-![JavaScript](https://img.shields.io/badge/JavaScript-17151F?style=for-the-badge&logo=javascript&logoColor=A78BFA)
-![Node.js](https://img.shields.io/badge/Node.js-17151F?style=for-the-badge&logo=nodedotjs&logoColor=A78BFA)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17151F?style=for-the-badge&logo=postgresql&logoColor=A78BFA)
 ![Git](https://img.shields.io/badge/Git-17151F?style=for-the-badge&logo=git&logoColor=A78BFA)
 ![Linux](https://img.shields.io/badge/Linux-17151F?style=for-the-badge&logo=linux&logoColor=A78BFA)
