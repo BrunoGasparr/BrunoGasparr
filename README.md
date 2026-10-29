@@ -75,12 +75,6 @@ I’m continuously building and improving projects as I learn new concepts in so
 
 ## `05` / Activity
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BrunoGasparr&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=A78BFA&icon_color=8B5CF6&text_color=D4D4D8&ring_color=8B5CF6" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoGasparr&layout=compact&hide_border=true&bg_color=0D0B12&title_color=A78BFA&text_color=D4D4D8" alt="Most used languages" />
-
-</div>
 
 <div align="center">
 
