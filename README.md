@@ -75,11 +75,19 @@ I’m continuously building and improving projects as I learn new concepts in so
 
 ## `05` / Activity
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED&section=footer" width="100%" />
 <div align="center">
 
 
+<div align="center">
+
+<img src="./assets/stats.svg" width="495" alt="Estatísticas do GitHub">
+
+<img src="./assets/languages.svg" width="495" alt="Linguagens dos repositórios">
+
+</div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7C3AED&section=footer" width="100%" />
 
 <sub><code>keep learning · keep building</code></sub>
 
